@@ -29,8 +29,13 @@ Welcome! This repository contains wallpapers, icons, and setup instructions for 
 
 ## Previews
 
+*Nord* https://nordtheme.com
 ![nord_home_screen](https://github.com/user-attachments/assets/8af0a91e-8e18-42fd-8155-69c3d524fe73)
+
+*Dracula* https://draculatheme.com/ 
 ![dracula_example](https://github.com/user-attachments/assets/5b11a53c-d219-4c3e-a31d-f26b56ba5e5a)
+
+*Everforest* https://github.com/sainnhe/everforest 
 ![everforest_example](https://github.com/user-attachments/assets/609d10d3-2c0a-4e2d-89d2-fde52c6d0b96)
 
 ---
