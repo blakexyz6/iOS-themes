@@ -1,3 +1,11 @@
+**all icons shown and hosted here are property of their rightful owners** 
+
+##Credits 
+- Nord Theme by Arctic Ice Studios
+- Dracula Theme by the Dracula team
+- Everforest by Sainnhe
+
+
 # iOS Customization Themes
 
 Welcome! This repository contains wallpapers, icons, and setup instructions for customizing your iOS home screen with themes like Nord, Dracula, and Everforest.
